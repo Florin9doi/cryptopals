@@ -2,7 +2,7 @@
 #include <stdint.h>
 
 /*
-	echo -n 49276d206b696c6 | main
+	echo -n 49276d206b696c6 | challenge1
 */
 
 int main(int argc, char **argv) {
